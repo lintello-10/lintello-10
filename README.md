@@ -41,7 +41,7 @@ I love working with tools that turn models into real-world applications:
 ---
 
 ### 📫 Let's Connect
-- 🌐 **Portfolio:** [bouramadram.github.io](https://bouramadram.github.io/)
+- 🌐 **Portfolio:** [bouramadram.github.io](https://lintello-10.github.io/Mon-Portfolio/)
 - 💼 **LinkedIn:** [linkedin.com/in/bourama-drame](https://www.linkedin.com/in/bourama-drame-246160427/)
 - 🏆 **Kaggle:** [kaggle.com/bouramadram](https://www.kaggle.com/bouramadram)
 - 📧 **Email:** [drame54363066@gmail.com](mailto:drame54363066@gmail.com)
