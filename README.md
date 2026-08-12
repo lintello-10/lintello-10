@@ -32,17 +32,6 @@ I love working with tools that turn models into real-world applications:
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lintello-10&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lintello-10&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect
 - 🌐 **Portfolio:** [bouramadram.github.io](https://lintello-10.github.io/Mon-Portfolio/)
 - 💼 **LinkedIn:** [linkedin.com/in/bourama-drame](https://www.linkedin.com/in/bourama-drame-246160427/)
