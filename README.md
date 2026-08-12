@@ -33,10 +33,13 @@ I love working with tools that turn models into real-world applications:
 ---
 
 ### 📈 GitHub Stats
-*(Tip: Replace the username below with your own to see your stats!)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lintello-10&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![Dramé's GitHub stats](https://github-readme-stats.vercel.app/api?username=lintello-10&show_icons=true&theme=radical&hide_border=true)
-![Dramé's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lintello-10&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lintello-10&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
