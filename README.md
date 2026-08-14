@@ -23,7 +23,8 @@ I am a 3rd-year Mathematics and Computer Science student at the Faculty of Scien
 ![](https://github-readme-stats.shion.dev/api?username=lintello-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=lintello-10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lintello-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lintello-10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lintello-10&color=blueviolet&style=flat-square" alt="Profile Views" />
