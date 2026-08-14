@@ -25,6 +25,8 @@ I am a 3rd-year Mathematics and Computer Science <br>student at the Faculty of S
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lintello-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=lintello-10&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lintello-10&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
 
