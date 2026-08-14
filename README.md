@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Dramé Bourama! 👋</h1>
-
-<h3 align="center">Mathematics & CS Student | Data Science & MLOps Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&width=480&lines=Hi+there%2C+I'm+Dram%C3%A9+Bourama!+%F0%9F%91%8B;Mathematics+%26+CS+Student;Data+Science+%26+MLOps+Enthusiast" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <em>Building the bridge between mathematical theory and production-ready code.</em>
@@ -14,8 +14,6 @@
 I am a 3rd-year Mathematics and Computer Science student at the Faculty of Sciences of Bizerte. My focus is on designing end-to-end data-driven solutions, transitioning from raw data analysis to containerized, scalable production APIs.
 
 ### 🛠 Tech Stack
-I love working with tools that turn models into real-world applications:
-
 - <b>Languages:</b> Python, SQL
 - <b>MLOps & Deployment:</b> FastAPI, Docker & Docker Compose, Pydantic, Render
 - <b>Data Science & ML:</b> Pandas, NumPy, Scikit-Learn, XGBoost, Google BigQuery, Seaborn
@@ -23,12 +21,20 @@ I love working with tools that turn models into real-world applications:
 
 ---
 
-### 📊 My Projects
-| Project | Role | Status |
+### 📊 Key Projects
+| Project | Tech Stack | Status & Demo |
 | :--- | :--- | :--- |
-| **E-Commerce MLOps API** | FastAPI, XGBoost, Docker | Live (V2) |
-| **Purchase Prediction (GA4)** | BigQuery, SQL, XGBoost | Live (V1) |
-| **Titanic Survival App** | Scikit-Learn, EDA | Demo |
+| **E-Commerce MLOps API** | FastAPI, XGBoost, Docker | [Live V2 App](https://ecommercemlapi-nb2638m2scw3u8ztmtts4q.streamlit.app/) |
+| **Purchase Prediction (GA4)** | BigQuery, SQL, XGBoost | [Docs / Swagger](https://ecommerce-ml-api-gqub.onrender.com/docs) |
+| **Titanic Survival App** | Scikit-Learn, EDA | [GitHub Repo](https://github.com/lintello-10) |
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lintello-10&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lintello-10&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
@@ -41,5 +47,5 @@ I love working with tools that turn models into real-world applications:
 ---
 
 <p align="center">
-  <em>Currently seeking internships for the 2027/2028 academic cycle.</em>
+  <em>🎯 Currently seeking internships for the 2027/2028 academic cycle.</em>
 </p>
