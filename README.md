@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7&labelColor=1a1b26)](https://linkedin.com/in/bourama-dramé-246160427)
 [![Email](https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=F7768E&labelColor=1a1b26)](mailto:drame54363066@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=firefox&logoColor=9ECE6A&labelColor=1a1b26)](https://lintello-10.github.io/Mon-Portfolio/)
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-1a1b26?style=for-the-badge&logo=kaggle&logoColor=FF9E64&labelColor=1a1b26)](https://www.kaggle.com/bouramadram)
 </div>
 
 <br>
