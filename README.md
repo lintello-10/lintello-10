@@ -12,6 +12,7 @@
 [![Email](https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=F7768E&labelColor=1a1b26)](mailto:drame54363066@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=firefox&logoColor=9ECE6A&labelColor=1a1b26)](https://lintello-10.github.io/Mon-Portfolio/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-1a1b26?style=for-the-badge&logo=kaggle&logoColor=FF9E64&labelColor=1a1b26)](https://www.kaggle.com/bouramadram)
+[![MY CV FR](https://img.shields.io/badge/CV-1a1b26?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=F7768E&labelColor=1a1b26)](DRAM%C3%89_CV_MAIN_FR_Final.pdf)
 
 <br>
 
