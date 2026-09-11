@@ -9,7 +9,7 @@
 <a href="mailto:drame54363066@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=F7768E&labelColor=1a1b26" /></a>
 <a href="https://lintello-10.github.io/Mon-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=firefox&logoColor=9ECE6A&labelColor=1a1b26" /></a>
 <a href="https://www.kaggle.com/bouramadram"><img src="https://img.shields.io/badge/Kaggle-1a1b26?style=for-the-badge&logo=kaggle&logoColor=FF9E64&labelColor=1a1b26" /></a>
-<a href="DRAM%C3%89_CV_MAIN_EN_Final.pdf"><img src="https://img.shields.io/badge/Resume-1a1b26?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=BB9AF7&labelColor=1a1b26" /></a>
+<a href="DRAM%C3%89_CV_MAIN_FR_Final.pdf"><img src="https://img.shields.io/badge/Resume-1a1b26?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=BB9AF7&labelColor=1a1b26" /></a>
 </p>
 
 <img src="https://img.shields.io/badge/-Open%20to%20Data%20Science%20%2F%20ML%20%2F%20MLOps%20Internships-1a1b26?style=for-the-badge&logo=target&logoColor=BB9AF7&labelColor=1a1b26" alt="Open to opportunities" />
