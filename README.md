@@ -1,15 +1,17 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7AA2F7&height=180&section=header&text=Bourama%20Dram%C3%A9&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Math%20%26%20CS%20%C2%B7%20Data%20Science%20%C2%B7%20MLOps&descAlignY=55&descSize=16" width="100%" alt="Header" />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Dram%C3%A9+Bourama+%F0%9F%91%8B;Math+%26+CS+Student+%40+Univ.+of+Bizerte;Aspiring+Data+Scientist+%26+MLOps+Engineer;Bridging+Linear+Algebra+%26+Production+ML" alt="Typing SVG" />
 
 <p><em>Turning rigorous mathematical foundations into production-grade machine learning systems — from exploratory analysis to containerized deployment.</em></p>
 
 <p>
-<a href="https://linkedin.com/in/bourama-dramé-246160427"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7&labelColor=1a1b26" /></a>
-<a href="mailto:drame54363066@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=F7768E&labelColor=1a1b26" /></a>
-<a href="https://lintello-10.github.io/Mon-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=firefox&logoColor=9ECE6A&labelColor=1a1b26" /></a>
-<a href="https://www.kaggle.com/bouramadram"><img src="https://img.shields.io/badge/Kaggle-1a1b26?style=for-the-badge&logo=kaggle&logoColor=FF9E64&labelColor=1a1b26" /></a>
-<a href="DRAM%C3%89_CV_MAIN_FR_Final.pdf"><img src="https://img.shields.io/badge/Resume-1a1b26?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=BB9AF7&labelColor=1a1b26" /></a>
+<a href="https://linkedin.com/in/bourama-dram%C3%A9-246160427"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7&labelColor=1a1b26" alt="LinkedIn" /></a>
+<a href="mailto:drame54363066@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=F7768E&labelColor=1a1b26" alt="Email" /></a>
+<a href="https://lintello-10.github.io/Mon-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=firefox&logoColor=9ECE6A&labelColor=1a1b26" alt="Portfolio" /></a>
+<a href="https://www.kaggle.com/bouramadram"><img src="https://img.shields.io/badge/Kaggle-1a1b26?style=for-the-badge&logo=kaggle&logoColor=FF9E64&labelColor=1a1b26" alt="Kaggle" /></a>
+<a href="DRAM%C3%89_CV_MAIN_FR_Final.pdf"><img src="https://img.shields.io/badge/Resume-1a1b26?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=BB9AF7&labelColor=1a1b26" alt="Resume" /></a>
 </p>
 
 <img src="https://img.shields.io/badge/-Open%20to%20Data%20Science%20%2F%20ML%20%2F%20MLOps%20Internships-1a1b26?style=for-the-badge&logo=target&logoColor=BB9AF7&labelColor=1a1b26" alt="Open to opportunities" />
@@ -22,7 +24,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🛡️ [Real-time Fraud MLOps](https://github.com/lintello-10/real_time_fraude_mlop)
 End-to-end fraud detection workflow spanning feature engineering, model training, and a monitored deployment loop.
@@ -34,9 +36,24 @@ End-to-end fraud detection workflow spanning feature engineering, model training
 <sub>`Python` `Machine Learning` `MLOps`</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### ⚡ [E-commerce ML API](https://github.com/lintello-10/ecommerce_ml_api)
+### ⚡ [Household Electricity Forecasting](https://github.com/lintello-10/energy_consumption_forecasting) ([Live Demo](https://energyconsumptionforecasting-9ejqpwflvhxzergfsympin.streamlit.app/))
+Time-series forecasting study predicting 24-hour electricity demand on the UCI household dataset (2006–2010).
+
+**Engineering depth**
+- Cyclical sine/cosine encoding for hour/day, 1h/24h consumption lags, and recursive 24-hour predictions with `HistGradientBoostingRegressor`
+- Evaluated on 193 rolling daily windows (4,632 predictions), outperforming baselines by ~7% in MAE/RMSE
+- Tracked locally with MLflow, automated via Pytest & GitHub Actions, and visualized with Streamlit
+
+<sub>`Python` `Time Series` `scikit-learn` `MLflow` `Streamlit`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [E-commerce ML API](https://github.com/lintello-10/ecommerce_ml_api)
 A trained ML workflow exposed through a clean, production-oriented REST API.
 
 **Engineering depth**
@@ -46,7 +63,7 @@ A trained ML workflow exposed through a clean, production-oriented REST API.
 <sub>`Python` `FastAPI` `Docker`</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### ☁️ [BigQuery E-commerce Project](https://github.com/lintello-10/bq_ecommerce_project)
 Cloud-native analytical pipeline for e-commerce data at scale.
@@ -61,6 +78,17 @@ Cloud-native analytical pipeline for e-commerce data at scale.
 </tr>
 </table>
 
+<!--
+  DEMO GIF : enregistre 10-15 s de ton app Streamlit, place le fichier dans assets/energy-demo.gif
+  puis décommente le bloc ci-dessous.
+
+<div align="center">
+<a href="https://energyconsumptionforecasting-9ejqpwflvhxzergfsympin.streamlit.app/">
+<img src="assets/energy-demo.gif" width="80%" alt="Household Electricity Forecasting — live demo" />
+</a>
+</div>
+-->
+
 <p align="center">📎 More case studies on my <a href="https://lintello-10.github.io/Mon-Portfolio/">portfolio</a></p>
 
 <br>
@@ -73,6 +101,23 @@ I'm a third-year Mathematics & Computer Science student at the Faculty of Scienc
 - 🌱 Deepening MLOps craft — experiment tracking, model serving, cloud data warehousing
 - 🎯 Long-term goal — join a Data Science / MLOps team, then pursue a Master's in Data Science (2027–2028)
 - ⚡ Core strength — bridging rigorous linear algebra with clean, testable Python code
+
+<br>
+
+## 🧮 From Mathematics to Production
+
+$$A = P D P^{-1} \quad\longrightarrow\quad \hat{y} = f_\theta(X) \quad\longrightarrow\quad \text{Pipeline}(X) \Rightarrow \text{API} \Rightarrow \text{Monitoring}$$
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1b26','primaryTextColor':'#c0caf5','primaryBorderColor':'#7AA2F7','lineColor':'#BB9AF7','secondaryColor':'#24283b','tertiaryColor':'#1a1b26','fontFamily':'Fira Code, monospace'}}}%%
+flowchart LR
+    A["📊 Data<br/>EDA"] --> B["🧮 Features<br/>Math & Encoding"]
+    B --> C["🤖 Training<br/>scikit-learn · XGBoost"]
+    C --> D["📈 Tracking<br/>MLflow"]
+    D --> E["🐳 Serving<br/>FastAPI · Docker"]
+    E --> F["🔁 CI/CD<br/>Pytest · GitHub Actions"]
+    F -.->|monitor & iterate| B
+```
 
 <br>
 
@@ -105,7 +150,8 @@ I'm a third-year Mathematics & Computer Science student at the Faculty of Scienc
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a1b26?style=for-the-badge&logo=fastapi&logoColor=9ECE6A&labelColor=1a1b26)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1a1b26?style=for-the-badge&logo=streamlit&logoColor=9ECE6A&labelColor=1a1b26)
 ![Docker](https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=9ECE6A&labelColor=1a1b26)
-![MLflow](https://img.shields.io/badge/MLflow-1a1b26?style=for-the-badge&logo=numpy&logoColor=9ECE6A&labelColor=1a1b26)
+![MLflow](https://img.shields.io/badge/MLflow-1a1b26?style=for-the-badge&logo=mlflow&logoColor=9ECE6A&labelColor=1a1b26)
+![Pytest](https://img.shields.io/badge/Pytest-1a1b26?style=for-the-badge&logo=pytest&logoColor=9ECE6A&labelColor=1a1b26)
 
 **Cloud & Infrastructure**
 
@@ -122,12 +168,23 @@ I'm a third-year Mathematics & Computer Science student at the Faculty of Scienc
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=lintello-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=lintello-10&theme=dark&hide_border=false" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api?username=lintello-10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=lintello-10&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 
 <br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lintello-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lintello-10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" alt="Top Languages" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lintello-10&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph" />
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lintello-10/lintello-10/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/lintello-10/lintello-10/output/github-snake.svg" width="100%">
+</picture>
 
 </div>
 
@@ -139,4 +196,4 @@ I'm a third-year Mathematics & Computer Science student at the Faculty of Scienc
   <img src="https://komarev.com/ghpvc/?username=lintello-10&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7AA2F7&height=120&section=footer" width="100%" alt="Footer" />
