@@ -37,10 +37,14 @@
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://github.com/lintello-10/ecommerce_ml_api"><img src="https://github-readme-stats.shion.dev/api/pin/?username=lintello-10&repo=ecommerce_ml_api&theme=tokyonight&hide_border=true" width="100%" alt="E-commerce ML API" /></a>
+<a href="https://github.com/lintello-10/ecommerce_ml_api"><img src="https://github-readme-stats.shion.dev/api/pin/?username=lintello-10&repo=ecommerce_ml_api&theme=tokyonight&hide_border=true" width="100%" alt="E-commerce ML API (V2)" /></a>
+<br>
+<a href="https://ecommercemlapi-nb2638m2scw3u8ztmtts4q.streamlit.app/"><img src="https://img.shields.io/badge/▶_Live_Demo-1a1b26?style=for-the-badge&logo=streamlit&logoColor=9ECE6A&labelColor=1a1b26" alt="Live Demo" /></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://github.com/lintello-10/bq_ecommerce_project"><img src="https://github-readme-stats.shion.dev/api/pin/?username=lintello-10&repo=bq_ecommerce_project&theme=tokyonight&hide_border=true" width="100%" alt="BigQuery E-commerce Project" /></a>
+<a href="https://github.com/lintello-10/bq_ecommerce_project"><img src="https://github-readme-stats.shion.dev/api/pin/?username=lintello-10&repo=bq_ecommerce_project&theme=tokyonight&hide_border=true" width="100%" alt="BigQuery E-commerce Project(V1)" /></a>
+<br>
+<a href="https://bqecommerceproject-9lwwgccusybdkxrhcame8m.streamlit.app/"><img src="https://img.shields.io/badge/▶_Live_Demo-1a1b26?style=for-the-badge&logo=streamlit&logoColor=9ECE6A&labelColor=1a1b26" alt="Live Demo" /></a>
 </td>
 </tr>
 </table>
@@ -61,12 +65,12 @@
 - Tracked locally with MLflow, automated via Pytest & GitHub Actions, and visualized with Streamlit
 - `Python` `Time Series` `scikit-learn` `MLflow` `Streamlit`
 
-**🛒 E-commerce ML API** — A trained ML workflow exposed through a clean, production-oriented REST API.
+**🛒 E-commerce ML API (V2)** — A trained ML workflow exposed through a clean, production-oriented REST API.
 - FastAPI service layer with typed request/response contracts
 - Fully containerized with Docker for reproducible deploys
 - `Python` `FastAPI` `Docker`
 
-**☁️ BigQuery E-commerce Project** — Cloud-native analytical pipeline for e-commerce data at scale.
+**☁️ BigQuery E-commerce Project (V1)** — Cloud-native analytical pipeline for e-commerce data at scale.
 - SQL-driven transformations executed directly on BigQuery
 - Analytical modeling aimed at business-facing insight
 - `SQL` `BigQuery` `Google Cloud`
