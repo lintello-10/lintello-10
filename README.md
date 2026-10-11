@@ -24,63 +24,55 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### 🛡️ [Real-time Fraud MLOps](https://github.com/lintello-10/real_time_fraude_mlop)
-End-to-end fraud detection workflow spanning feature engineering, model training, and a monitored deployment loop.
-
-**Engineering depth**
-- Full MLOps lifecycle: train → track → serve
-- Built with real-time inference constraints in mind
-
-<sub>`Python` `Machine Learning` `MLOps`</sub>
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/lintello-10/real_time_fraude_mlop"><img src="https://github-readme-stats.shion.dev/api/pin/?username=lintello-10&repo=real_time_fraude_mlop&theme=tokyonight&hide_border=true" width="100%" alt="Real-time Fraud MLOps" /></a>
 </td>
-<td width="50%" valign="top">
-
-### ⚡ [Household Electricity Forecasting](https://github.com/lintello-10/energy_consumption_forecasting) ([Live Demo](https://energyconsumptionforecasting-9ejqpwflvhxzergfsympin.streamlit.app/))
-Time-series forecasting study predicting 24-hour electricity demand on the UCI household dataset (2006–2010).
-
-**Engineering depth**
-- Cyclical sine/cosine encoding for hour/day, 1h/24h consumption lags, and recursive 24-hour predictions with `HistGradientBoostingRegressor`
-- Evaluated on 193 rolling daily windows (4,632 predictions), outperforming baselines by ~7% in MAE/RMSE
-- Tracked locally with MLflow, automated via Pytest & GitHub Actions, and visualized with Streamlit
-
-<sub>`Python` `Time Series` `scikit-learn` `MLflow` `Streamlit`</sub>
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/lintello-10/energy_consumption_forecasting"><img src="https://github-readme-stats.shion.dev/api/pin/?username=lintello-10&repo=energy_consumption_forecasting&theme=tokyonight&hide_border=true" width="100%" alt="Household Electricity Forecasting" /></a>
+<br>
+<a href="https://energyconsumptionforecasting-9ejqpwflvhxzergfsympin.streamlit.app/"><img src="https://img.shields.io/badge/▶_Live_Demo-1a1b26?style=for-the-badge&logo=streamlit&logoColor=9ECE6A&labelColor=1a1b26" alt="Live Demo" /></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🛒 [E-commerce ML API](https://github.com/lintello-10/ecommerce_ml_api)
-A trained ML workflow exposed through a clean, production-oriented REST API.
-
-**Engineering depth**
-- FastAPI service layer with typed request/response contracts
-- Fully containerized with Docker for reproducible deploys
-
-<sub>`Python` `FastAPI` `Docker`</sub>
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/lintello-10/ecommerce_ml_api"><img src="https://github-readme-stats.shion.dev/api/pin/?username=lintello-10&repo=ecommerce_ml_api&theme=tokyonight&hide_border=true" width="100%" alt="E-commerce ML API" /></a>
 </td>
-<td width="50%" valign="top">
-
-### ☁️ [BigQuery E-commerce Project](https://github.com/lintello-10/bq_ecommerce_project)
-Cloud-native analytical pipeline for e-commerce data at scale.
-
-**Engineering depth**
-- SQL-driven transformations executed directly on BigQuery
-- Analytical modeling aimed at business-facing insight
-
-<sub>`SQL` `BigQuery` `Google Cloud`</sub>
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/lintello-10/bq_ecommerce_project"><img src="https://github-readme-stats.shion.dev/api/pin/?username=lintello-10&repo=bq_ecommerce_project&theme=tokyonight&hide_border=true" width="100%" alt="BigQuery E-commerce Project" /></a>
 </td>
 </tr>
 </table>
 
+<details>
+<summary><b>🔍 Engineering depth — click to expand</b></summary>
+
+<br>
+
+**🛡️ Real-time Fraud MLOps** — End-to-end fraud detection workflow spanning feature engineering, model training, and a monitored deployment loop.
+- Full MLOps lifecycle: train → track → serve
+- Built with real-time inference constraints in mind
+- `Python` `Machine Learning` `MLOps`
+
+**⚡ Household Electricity Forecasting** — Time-series forecasting study predicting 24-hour electricity demand on the UCI household dataset (2006–2010).
+- Cyclical sine/cosine encoding for hour/day, 1h/24h consumption lags, and recursive 24-hour predictions with `HistGradientBoostingRegressor`
+- Evaluated on 193 rolling daily windows (4,632 predictions), outperforming baselines by ~7% in MAE/RMSE
+- Tracked locally with MLflow, automated via Pytest & GitHub Actions, and visualized with Streamlit
+- `Python` `Time Series` `scikit-learn` `MLflow` `Streamlit`
+
+**🛒 E-commerce ML API** — A trained ML workflow exposed through a clean, production-oriented REST API.
+- FastAPI service layer with typed request/response contracts
+- Fully containerized with Docker for reproducible deploys
+- `Python` `FastAPI` `Docker`
+
+**☁️ BigQuery E-commerce Project** — Cloud-native analytical pipeline for e-commerce data at scale.
+- SQL-driven transformations executed directly on BigQuery
+- Analytical modeling aimed at business-facing insight
+- `SQL` `BigQuery` `Google Cloud`
+
+</details>
+
 <!--
-  DEMO GIF : enregistre 10-15 s de ton app Streamlit, place le fichier dans assets/energy-demo.gif
-  puis décommente le bloc ci-dessous.
+  DEMO GIF : place le fichier dans assets/energy-demo.gif puis décommente.
 
 <div align="center">
 <a href="https://energyconsumptionforecasting-9ejqpwflvhxzergfsympin.streamlit.app/">
