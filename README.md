@@ -26,6 +26,8 @@
 <tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/lintello-10/real_time_fraude_mlop"><img src="https://github-readme-stats.shion.dev/api/pin/?username=lintello-10&repo=real_time_fraude_mlop&theme=tokyonight&hide_border=true" width="100%" alt="Real-time Fraud MLOps" /></a>
+<br>
+<a href="https://realtimefraudemlop-na4cnq9rg9awyedh8rhqsw.streamlit.app/"><img src="https://img.shields.io/badge/▶_Live_Demo-1a1b26?style=for-the-badge&logo=streamlit&logoColor=9ECE6A&labelColor=1a1b26" alt="Live Demo" /></a>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/lintello-10/energy_consumption_forecasting"><img src="https://github-readme-stats.shion.dev/api/pin/?username=lintello-10&repo=energy_consumption_forecasting&theme=tokyonight&hide_border=true" width="100%" alt="Household Electricity Forecasting" /></a>
