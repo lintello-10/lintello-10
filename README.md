@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7AA2F7&height=180&section=header&text=Bourama%20Dram%C3%A9&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Math%20%26%20CS%20%C2%B7%20Data%20Science%20%C2%B7%20MLOps&descAlignY=55&descSize=16" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b26,50:24283b,100:7AA2F7&amp;height=160&amp;section=header&amp;text=BOURAMA%20DRAME&amp;fontSize=42&amp;fontColor=c0caf5&amp;animation=fadeIn&amp;fontAlignY=50" width="100%" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Dram%C3%A9+Bourama+%F0%9F%91%8B;Math+%26+CS+Student+%40+Univ.+of+Bizerte;Aspiring+Data+Scientist+%26+MLOps+Engineer;Bridging+Linear+Algebra+%26+Production+ML" alt="Typing SVG" />
 
