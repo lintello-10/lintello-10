@@ -190,7 +190,7 @@ flowchart LR
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lintello-10&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lintello-10.profile" alt="Profile Views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7AA2F7&height=120&section=footer" width="100%" alt="Footer" />
